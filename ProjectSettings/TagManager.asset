@@ -6,6 +6,10 @@ TagManager:
   tags:
   - MainMusic
   - AudioSlider
+  - NPC
+  - Item
+  - Chest
+  - Ground
   layers:
   - Default
   - TransparentFX

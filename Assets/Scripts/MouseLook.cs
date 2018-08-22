@@ -3,7 +3,7 @@ using System.Collections;
 //this script can be found in the Component section under the option Character Set Up 
 //Mouse Look
 [AddComponentMenu("FirstPerson/Camera Mouse Look")]
-public class W4_MouseLook : MonoBehaviour
+public class MouseLook : MonoBehaviour
 {
     //Before you write this section please scroll to the bottom of the page
     #region Variables
